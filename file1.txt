@@ -1,1 +1,2 @@
 Menambahkan file1.txt
+Penambahan data file1.txt
